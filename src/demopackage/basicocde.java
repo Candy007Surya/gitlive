@@ -14,6 +14,7 @@ public class basicocde {
 	public static int addtion(int x , int y, int c)
 	{
 		int k = x+y+c ;
+		System.out.println("first number is :-"+ x);
 		 System.out.println("addtion of this numbers is :---" + k);
 		return k ;
 	}
